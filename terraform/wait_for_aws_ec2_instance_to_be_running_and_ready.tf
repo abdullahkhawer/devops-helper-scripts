@@ -1,5 +1,5 @@
 # Terraform code to wait for an AWS EC2 instance to be running and complete status checks.
-# var.aws_ec2_instance_id needs to replaced or provided with the actual AWS EC2 instance id.
+# var.aws_ec2_instance_id needs to be replaced or provided with the actual AWS EC2 instance id.
 
 resource "null_resource" "wait_for_instance" {
   triggers = {
