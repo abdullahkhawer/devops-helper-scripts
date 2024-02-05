@@ -1,5 +1,5 @@
 # Purpose:
-# - Terraform code to wait for an AWS EC2 instance to be running and complete status checks.
+# - Terraform template to wait for an AWS EC2 instance to be running and complete status checks.
 # Prerequisites:
 # - AWS CLI is installed and configured.
 # - Terraform is installed.
