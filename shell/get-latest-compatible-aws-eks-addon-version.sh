@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Purpose:
-# - To fetch the latest compatitble version of all the AWS EKS Add-ons installed on the AWS EKS cluster for a specific Kubernetes version.
+# - Shell script to fetch the latest compatible version of all the AWS EKS Add-ons installed on the AWS EKS cluster for a specific Kubernetes version.
 # Prerequisites:
 # - AWS CLI is installed and configured.
 # - jq is installed.
