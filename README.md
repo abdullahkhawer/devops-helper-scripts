@@ -1,4 +1,9 @@
 # devops-helper-scripts
+
+- Founder: Abdullah Khawer (LinkedIn: https://www.linkedin.com/in/abdullah-khawer/)
+
+## Introduction
+
 Repository having various helper scripts related to DevOps and AWS.
 
 ## List of DevOps Helper Scripts
