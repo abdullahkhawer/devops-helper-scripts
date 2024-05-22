@@ -14,6 +14,5 @@ Repository having various helper scripts related to DevOps and AWS.
 * [Shell](./shell)
   * [get-latest-compatible-aws-eks-addon-version.sh](./shell/get-latest-compatible-aws-eks-addon-version.sh)
     * Purpose: Shell script to fetch the latest compatible version of all the AWS EKS Add-ons installed on the AWS EKS cluster for a specific Kubernetes version.
-* [Shell](./shell)
   * [print-all-aws-ssm-parameters-values.sh](./shell/print-all-aws-ssm-parameters-values.sh)
     * Purpose: Shell script to fetch all the AWS SSM parameters from Parameter Store and print their decrypted values.
