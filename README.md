@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Repository having various helper scripts related to DevOps and AWS.
+This repository has various helper scripts related to DevOps and AWS.
 
 ## List of DevOps Helper Scripts
 
