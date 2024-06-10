@@ -16,3 +16,5 @@ This repository has various helper scripts related to DevOps and AWS.
     * Purpose: Shell script to fetch the latest compatible version of all the AWS EKS Add-ons installed on the AWS EKS cluster for a specific Kubernetes version.
   * [print-all-aws-ssm-parameters-values.sh](./shell/print-all-aws-ssm-parameters-values.sh)
     * Purpose: Shell script to fetch all the AWS SSM parameters from Parameter Store and print their decrypted values.
+  * [gitlab-add-members-from-one-repo-to-another.sh](./shell/gitlab-add-members-from-one-repo-to-another.sh)
+    * Purpose: Shell script for GitLab to fetch all members from one repository and add them to another repository except the blocked members.
